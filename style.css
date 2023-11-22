@@ -1,0 +1,23 @@
+.keys {
+    display: flex; 
+    gap: 10px; 
+    align-items: center; 
+    justify-content: center; 
+    max-width: 1500px;
+    margin: 0 auto;
+    row-gap: 0px;
+}
+
+.keys p {
+    border: 0.5px solid #333333;
+    padding: 5px;
+    font-size: 20px;
+}
+
+input {
+    max-width: 1320px;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 40px;
+}
